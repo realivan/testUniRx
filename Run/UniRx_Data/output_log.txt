@@ -1,0 +1,25 @@
+Initialize engine version: 4.7.0f1 (9c73fd3cda99)
+GfxDevice: creating device client; threaded=1
+d3d11: no D3D11 installed
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nv4_disp.dll 6.14.10.9131]
+    Renderer: NVIDIA GeForce 6200 
+    Vendor:   NVIDIA
+    VRAM:     128 MB (via registry)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=0 NativeShadow=1 DF16=0 INTZ=0 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Gon\unity\testServerClient\Run\UniRx_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Gon\unity\testServerClient\Run\UniRx_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Gon\unity\testServerClient\Run\UniRx_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Gon\unity\testServerClient\Run\UniRx_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Gon\unity\testServerClient\Run\UniRx_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Gon\unity\testServerClient\Run\UniRx_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Gon\unity\testServerClient\Run\UniRx_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Gon\unity\testServerClient\Run\UniRx_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.192 seconds
+desktop: 1280x1024 75Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+XInput9_1_0.dll not found either. XInput-based controllers will not have full functionality.
+<RI> Input initialized.
